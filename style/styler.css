@@ -1,5 +1,5 @@
 .sex {
-/* background: #000; */
+/* background: #000000; */
 color: #FFFF00;
 }
 a:link {
@@ -17,7 +17,7 @@ color: #FF00CC
 /* Style the button that is used to open and close the collapsible content */
 .collapsible {
   font-family: serif;
- background-color: #000;
+ background-color: #000000;
  color: #FF00CC;
  cursor: pointer;
  padding: 1px;
@@ -31,7 +31,7 @@ color: #FF00CC
 
 /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
 .active, .collapsible:hover {
- background-color: #000;
+ background-color: #000000;
 }
 
 /* Style the collapsible content. Note: hidden by default */
@@ -39,7 +39,7 @@ color: #FF00CC
  padding: 0 18px;
  display: none;
  overflow: hidden;
- background-color: #000;
+ background-color: #000000;
 }
 
 #marty {
